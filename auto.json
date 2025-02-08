@@ -2,52 +2,52 @@
     {
       "model": "Toyota Corolla",
       "year": 2024,
-      "image": "https://github.com/KYT88/Toyota/blob/main/autoIMG/corolla.png"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/corolla.png"
     },
     {
       "model": "Toyota Camry",
       "year": 2024,
-      "image": "https://github.com/KYT88/Toyota/blob/main/autoIMG/camry.png"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/camry.png"
     },
     {
       "model": "Toyota RAV4",
       "year": 2024,
-      "image": "https://github.com/KYT88/Toyota/blob/main/autoIMG/rav4.png"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/rav4.png"
     },
     {
       "model": "Toyota Highlander",
       "year": 2024,
-      "image": "https://github.com/KYT88/Toyota/blob/main/autoIMG/highlander.jpg"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/highlander.jpg"
     },
     {
       "model": "Toyota Tacoma",
       "year": 2024,
-      "image": "https://github.com/KYT88/Toyota/blob/main/autoIMG/Tacoma.jpg"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/Tacoma.jpg"
     },
     {
       "model": "Toyota Tundra",
       "year": 2024,
-      "image": "https://github.com/KYT88/Toyota/blob/main/autoIMG/Tundra.jpg"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/Tundra.jpg"
     },
     {
       "model": "Toyota Sienna",
       "year": 2024,
-      "image": "https://github.com/KYT88/Toyota/blob/main/autoIMG/Sienna.jpg"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/Sienna.jpg"
     },
     {
       "model": "Toyota Prius",
       "year": 2024,
-      "image": "https://github.com/KYT88/Toyota/blob/main/autoIMG/Prius.jpg"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/Prius.jpg"
     },
     {
       "model": "Toyota Land Cruiser",
       "year": 2024,
-      "image": "https://github.com/KYT88/Toyota/blob/main/autoIMG/LandCruiser.jpg"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/LandCruiser.jpg"
     },
     {
       "model": "Toyota GR Supra",
       "year": 2024,
-      "image": "https://github.com/KYT88/Toyota/blob/main/autoIMG/GRSupra.png"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/GRSupra.png"
     }
   ]
   
