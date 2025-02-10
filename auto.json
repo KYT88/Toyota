@@ -1,68 +1,66 @@
 [
-    {
-      "id": 1,
-      "name": "Toyota Corolla",
-      "description": "Een betrouwbare en zuinige sedan met een modern design en geavanceerde technologie.",
-      "year": 2024,
-      "isAvailable": true,
-      "releaseDate": "2023-09-15",
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/corolla.png",
-      "category": "Sedan",
-      "features": ["Adaptieve cruisecontrol", "Achteruitrijcamera", "Hybride optie"],
-      "dealer": {
+  {
+    "id": 1,
+    "name": "Toyota Corolla",
+    "description": "Een betrouwbare en zuinige sedan met een modern design en geavanceerde technologie.",
+    "year": 2024,
+    "isAvailable": true,
+    "releaseDate": "2023-09-15",
+    "image": "https://raw.githubusercontent.com/KYT88/Toyota/main/autoIMG/corolla.png",
+    "category": "Sedan",
+    "features": ["Adaptieve cruisecontrol", "Achteruitrijcamera", "Hybride optie"],
+    "dealer": {
       "id": 101,
       "name": "Toyota Centrum Amsterdam",
       "location": "Amsterdam, Nederland",
       "contact": "+31 20 123 4567",
-      "image": "https://example.com/dealer-amsterdam.jpg"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/th.jpg"
     }
-
-    },
-    {
-      "id": 2,
-      "name": "Toyota Camry",
-      "description": "Een elegante en krachtige sedan met hybride mogelijkheden en luxe interieur.",
-      "year": 2024,
-      "isAvailable": true,
-       "releaseDate": "2023-10-10",
-       "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/camry.png",
-      "category": "Sedan",
-       "features": ["Lederen bekleding", "Groot touchscreen", "Automatisch parkeren"],
-       "dealer": {
+  },
+  {
+    "id": 2,
+    "name": "Toyota Camry",
+    "description": "Een elegante en krachtige sedan met hybride mogelijkheden en luxe interieur.",
+    "year": 2024,
+    "isAvailable": true,
+    "releaseDate": "2023-10-10",
+    "image": "https://raw.githubusercontent.com/KYT88/Toyota/main/autoIMG/camry.png",
+    "category": "Sedan",
+    "features": ["Lederen bekleding", "Groot touchscreen", "Automatisch parkeren"],
+    "dealer": {
       "id": 102,
       "name": "Toyota Rotterdam",
       "location": "Rotterdam, Nederland",
       "contact": "+31 10 765 4321",
-      "image": "https://example.com/dealer-rotterdam.jpg"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/th.jpg"
     }
-    },
-    {
-      "id": 3,
+  },
+  {
+    "id": 3,
     "name": "Toyota RAV4",
     "description": "Een robuuste en veelzijdige SUV, perfect voor zowel stadsverkeer als off-road avonturen.",
     "year": 2024,
     "isAvailable": true,
     "releaseDate": "2023-08-20",
-    "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/rav4.png",
+    "image": "https://raw.githubusercontent.com/KYT88/Toyota/main/autoIMG/rav4.png",
     "category": "SUV",
-    "feathttps://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/rav4.pngres": ["Vierwielaandrijving", "Panoramisch dak", "Hybride motor"],
+    "features": ["Vierwielaandrijving", "Panoramisch dak", "Hybride motor"],
     "dealer": {
       "id": 103,
       "name": "Toyota Utrecht",
       "location": "Utrecht, Nederland",
       "contact": "+31 30 222 3344",
-      "image": "https://example.com/dealer-utrecht.jpg"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/th.jpg"
     }
-
-    },
-    {
-      "id": 4,
+  },
+  {
+    "id": 4,
     "name": "Toyota Highlander",
     "description": "Een ruime en luxe SUV met drie zitrijen en geavanceerde veiligheidssystemen.",
     "year": 2024,
     "isAvailable": false,
     "releaseDate": "2023-11-01",
-    "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/highlander.jpg",
+    "image": "https://raw.githubusercontent.com/KYT88/Toyota/main/autoIMG/highlander.jpg",
     "category": "SUV",
     "features": ["Drie zitrijen", "Groot navigatiescherm", "Elektrische achterklep"],
     "dealer": {
@@ -70,17 +68,17 @@
       "name": "Toyota Eindhoven",
       "location": "Eindhoven, Nederland",
       "contact": "+31 40 555 6677",
-      "image": "https://example.com/dealer-eindhoven.jpg"
-    }  
-    },
-    {
-      "id": 5,
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/th.jpg"
+    }
+  },
+  {
+    "id": 5,
     "name": "Toyota Tacoma",
     "description": "Een robuuste en betrouwbare pick-up truck met een krachtige motor en trekcapaciteit.",
     "year": 2024,
     "isAvailable": true,
     "releaseDate": "2023-09-05",
-    "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/Tacoma.jpg",
+    "image": "https://raw.githubusercontent.com/KYT88/Toyota/main/autoIMG/Tacoma.jpg",
     "category": "Pick-up",
     "features": ["Sterke motor", "Grote laadbak", "Trekhaakoptie"],
     "dealer": {
@@ -88,36 +86,101 @@
       "name": "Toyota Groningen",
       "location": "Groningen, Nederland",
       "contact": "+31 50 666 7788",
-      "image": "https://example.com/dealer-groningen.jpg"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/th.jpg"
     }
-    },
-    {
-      "model": "Toyota Tundra",
-      "year": 2024,
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/Tundra.jpg"
-    },
-    {
-      "model": "Toyota Sienna",
-      "year": 2024,
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/Sienna.jpg"
-    },
-    {
-      "model": "Toyota Prius",
-      "year": 2024,
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/Prius.jpg"
-    },
-    {
-      "model": "Toyota Land Cruiser",
-      "year": 2024,
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/LandCruiser.jpg"
-    },
-    {
-      "model": "Toyota GR Supra",
-      "year": 2024,
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/GRSupra.png"
+  },
+  {
+    "id": 6,
+    "name": "Toyota Tundra",
+    "description": "Een krachtige en robuuste full-size pick-up truck met een V8-motor en off-road capaciteiten.",
+    "year": 2024,
+    "isAvailable": false,
+    "releaseDate": "2023-07-18",
+    "image": "https://raw.githubusercontent.com/KYT88/Toyota/main/autoIMG/Tundra.jpg",
+    "category": "Pick-up",
+    "features": ["V8 motor", "Grote trekcapaciteit", "Vierwielaandrijving"],
+    "dealer": {
+      "id": 106,
+      "name": "Toyota Arnhem",
+      "location": "Arnhem, Nederland",
+      "contact": "+31 26 999 2211",
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/th.jpg"
     }
-    
-  ]
+  },
+  {
+    "id": 7,
+    "name": "Toyota Sienna",
+    "description": "Een ruime en comfortabele minivan met hybride technologie en moderne functies.",
+    "year": 2024,
+    "isAvailable": true,
+    "releaseDate": "2023-09-30",
+    "image": "https://raw.githubusercontent.com/KYT88/Toyota/main/autoIMG/Sienna.jpg",
+    "category": "Minivan",
+    "features": ["Hybride aandrijving", "Ruime zitplaatsen", "Geavanceerde veiligheidssystemen"],
+    "dealer": {
+      "id": 107,
+      "name": "Toyota Breda",
+      "location": "Breda, Nederland",
+      "contact": "+31 76 888 5566",
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/th.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Toyota Prius",
+    "description": "Een iconische hybride auto met futuristisch design en uitzonderlijke brandstofefficiëntie.",
+    "year": 2024,
+    "isAvailable": true,
+    "releaseDate": "2023-10-20",
+    "image": "https://raw.githubusercontent.com/KYT88/Toyota/main/autoIMG/Prius.jpg",
+    "category": "Hybride",
+    "features": ["Zonnepaneel dak", "Automatische noodrem", "Dynamische navigatie"],
+    "dealer": {
+      "id": 108,
+      "name": "Toyota Den Haag",
+      "location": "Den Haag, Nederland",
+      "contact": "+31 70 777 9900",
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/th.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Toyota Land Cruiser",
+    "description": "Een robuuste en legendarische terreinwagen met uitstekende off-road prestaties.",
+    "year": 2024,
+    "isAvailable": false,
+    "releaseDate": "2023-08-12",
+    "image": "https://raw.githubusercontent.com/KYT88/Toyota/main/autoIMG/LandCruiser.jpg",
+    "category": "SUV",
+    "features": ["Vierwielaandrijving", "Hill Descent Control", "Robuust chassis"],
+    "dealer": {
+      "id": 109,
+      "name": "Toyota Zwolle",
+      "location": "Zwolle, Nederland",
+      "contact": "+31 38 999 1122",
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/th.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Toyota GR Supra",
+    "description": "Een sportieve en krachtige coupé met een aerodynamisch design en indrukwekkende prestaties.",
+    "year": 2024,
+    "isAvailable": true,
+    "releaseDate": "2023-06-10",
+    "image": "https://raw.githubusercontent.com/KYT88/Toyota/main/autoIMG/GRSupra.png",
+    "category": "Sportwagen",
+    "features": ["Turbo motor", "Launch Control", "Achterwielaandrijving"],
+    "dealer": {
+      "id": 110,
+      "name": "Toyota Leeuwarden",
+      "location": "Leeuwarden, Nederland",
+      "contact": "+31 58 444 5566",
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/th.jpg"
+    }
+  }
+]
+
   
 
   
