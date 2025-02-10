@@ -1,53 +1,125 @@
 [
     {
-      "model": "Toyota Corolla",
+      "id": 1,
+      "name": "Toyota Corolla",
+      "description": "Een betrouwbare en zuinige sedan met een modern design en geavanceerde technologie.",
       "year": 2024,
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/corolla.png"
+      "isAvailable": true,
+      "releaseDate": "2023-09-15",
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/corolla.png",
+      "category": "Sedan",
+      "features": ["Adaptieve cruisecontrol", "Achteruitrijcamera", "Hybride optie"],
+      "dealer": {
+      "id": 101,
+      "name": "Toyota Centrum Amsterdam",
+      "location": "Amsterdam, Nederland",
+      "contact": "+31 20 123 4567",
+      "image": "https://example.com/dealer-amsterdam.jpg"
+    }
+
     },
     {
-      "model": "Toyota Camry",
+      "id": 2,
+      "name": "Toyota Camry",
+      "description": "Een elegante en krachtige sedan met hybride mogelijkheden en luxe interieur.",
       "year": 2024,
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/camry.png"
+      "isAvailable": true,
+       "releaseDate": "2023-10-10",
+       "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/camry.png",
+      "category": "Sedan",
+       "features": ["Lederen bekleding", "Groot touchscreen", "Automatisch parkeren"],
+       "dealer": {
+      "id": 102,
+      "name": "Toyota Rotterdam",
+      "location": "Rotterdam, Nederland",
+      "contact": "+31 10 765 4321",
+      "image": "https://example.com/dealer-rotterdam.jpg"
+    }
     },
     {
-      "model": "Toyota RAV4",
-      "year": 2024,
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/rav4.png"
+      "id": 3,
+    "name": "Toyota RAV4",
+    "description": "Een robuuste en veelzijdige SUV, perfect voor zowel stadsverkeer als off-road avonturen.",
+    "year": 2024,
+    "isAvailable": true,
+    "releaseDate": "2023-08-20",
+    "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/rav4.png",
+    "category": "SUV",
+    "feathttps://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/rav4.pngres": ["Vierwielaandrijving", "Panoramisch dak", "Hybride motor"],
+    "dealer": {
+      "id": 103,
+      "name": "Toyota Utrecht",
+      "location": "Utrecht, Nederland",
+      "contact": "+31 30 222 3344",
+      "image": "https://example.com/dealer-utrecht.jpg"
+    }
+
     },
     {
-      "model": "Toyota Highlander",
-      "year": 2024,
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/highlander.jpg"
+      "id": 4,
+    "name": "Toyota Highlander",
+    "description": "Een ruime en luxe SUV met drie zitrijen en geavanceerde veiligheidssystemen.",
+    "year": 2024,
+    "isAvailable": false,
+    "releaseDate": "2023-11-01",
+    "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/highlander.jpg",
+    "category": "SUV",
+    "features": ["Drie zitrijen", "Groot navigatiescherm", "Elektrische achterklep"],
+    "dealer": {
+      "id": 104,
+      "name": "Toyota Eindhoven",
+      "location": "Eindhoven, Nederland",
+      "contact": "+31 40 555 6677",
+      "image": "https://example.com/dealer-eindhoven.jpg"
+    }  
     },
     {
-      "model": "Toyota Tacoma",
-      "year": 2024,
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/Tacoma.jpg"
+      "id": 5,
+    "name": "Toyota Tacoma",
+    "description": "Een robuuste en betrouwbare pick-up truck met een krachtige motor en trekcapaciteit.",
+    "year": 2024,
+    "isAvailable": true,
+    "releaseDate": "2023-09-05",
+    "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/Tacoma.jpg",
+    "category": "Pick-up",
+    "features": ["Sterke motor", "Grote laadbak", "Trekhaakoptie"],
+    "dealer": {
+      "id": 105,
+      "name": "Toyota Groningen",
+      "location": "Groningen, Nederland",
+      "contact": "+31 50 666 7788",
+      "image": "https://example.com/dealer-groningen.jpg"
+    }
     },
     {
       "model": "Toyota Tundra",
       "year": 2024,
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/Tundra.jpg"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/Tundra.jpg"
     },
     {
       "model": "Toyota Sienna",
       "year": 2024,
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/Sienna.jpg"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/Sienna.jpg"
     },
     {
       "model": "Toyota Prius",
       "year": 2024,
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/Prius.jpg"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/Prius.jpg"
     },
     {
       "model": "Toyota Land Cruiser",
       "year": 2024,
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/LandCruiser.jpg"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/LandCruiser.jpg"
     },
     {
       "model": "Toyota GR Supra",
       "year": 2024,
-      "image": "https://raw.githubusercontent.com/KYT88/Toyota/blob/main/autoIMG/GRSupra.png"
+      "image": "https://raw.githubusercontent.com/KYT88/Toyota/refs/heads/main/autoIMG/GRSupra.png"
     }
+    
   ]
+  
+
+  
+
   
